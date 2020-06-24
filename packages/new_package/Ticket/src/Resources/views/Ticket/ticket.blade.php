@@ -1,0 +1,1 @@
+{{ __(ticket::app.ticket.name’) }} 

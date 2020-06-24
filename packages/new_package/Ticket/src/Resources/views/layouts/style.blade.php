@@ -1,0 +1,1 @@
+<link rel="stylesheet" href=" {{ asset('vendor/new_package/ticket/assets/css/ticket.css') }} "/>
